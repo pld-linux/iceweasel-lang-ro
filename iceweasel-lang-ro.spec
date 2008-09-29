@@ -1,12 +1,12 @@
 %define		_lang		ro
 Summary:	Romanian resources for Iceweasel
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0.1
-Release:	3
+Version:	3.0.3
+Release:	1
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	b2cc0dec84a2b32b00e76bf0eafc524c
+# Source0-md5:	00fbe8fdb902b263ca106595f015ce17
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
 BuildRequires:	zip
