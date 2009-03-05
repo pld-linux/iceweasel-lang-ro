@@ -2,12 +2,12 @@
 Summary:	Romanian resources for Iceweasel
 Summary(pl.UTF-8):	Rumuńskie pliki językowe dla Iceweasela
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0.6
+Version:	3.0.7
 Release:	1
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	b46142d598a0e8afe8f02142e409d812
+# Source0-md5:	58d8087ec50fa1f26da3b08d738f4b26
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
 BuildRequires:	zip
